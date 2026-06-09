@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHandelApi", "EHandelApi\EHandelApi.csproj", "{CFBD042D-EC5D-4020-B0E3-8772E591A46D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95280620-ADB5-45F8-A133-2E4CBBA546E0}
+	EndGlobalSection
+EndGlobal
