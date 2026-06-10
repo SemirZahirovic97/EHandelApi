@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.37111.16 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHandelApi", "EHandelApi\EHandelApi.csproj", "{CFBD042D-EC5D-4020-B0E3-8772E591A46D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHandelApi.Tests", "EHandelApi.Tests\EHandelApi.Tests.csproj", "{1D360EEA-F912-460E-9430-E4FF5C4C3E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFBD042D-EC5D-4020-B0E3-8772E591A46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D360EEA-F912-460E-9430-E4FF5C4C3E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D360EEA-F912-460E-9430-E4FF5C4C3E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D360EEA-F912-460E-9430-E4FF5C4C3E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D360EEA-F912-460E-9430-E4FF5C4C3E2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
